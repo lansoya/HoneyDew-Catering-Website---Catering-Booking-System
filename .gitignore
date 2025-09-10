@@ -1,0 +1,30 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment / config
+.env
+*.env
+
+# PHP / dependencies
+vendor/
+composer.lock
+
+# Database dumps
+*.sql
+
+# Logs and cache
+*.log
+.cache/
+*.tmp
+
+# Ignore zip archives and large media backups (if present)
+*.zip
+*.tar.gz
+
