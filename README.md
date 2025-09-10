@@ -4,11 +4,11 @@ A corporate catering order management website developed using HTML, CSS, and PHP
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](screenshots/Screenshot 2025-09-10 144457.png)
-![Homepage](screenshots/Screenshot 2025-09-10 144536.png)
+![Homepage](screenshots/Homepage1.png)
+![Homepage](screenshots/Homepage2.png)
 
 ### Catering Order Form
-![Order Form](screenshots/Screenshot 2025-09-10 144545.png)
+![Order Form](screenshots/OrderForm.png)
 
 ### Booking Database
-![Booking Database](screenshots/Screenshot 2025-09-10 144626.png)
+![Booking Database](screenshots/Orderdatabase.png)
