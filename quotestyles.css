@@ -1,0 +1,159 @@
+/*.home-2 {
+	overflow: hidden;
+	margin: 0;
+	width: 100%;
+  position: relative;
+  width: 100%;
+  height: 700px;
+  background: linear-gradient(to top, rgba(0,0,0,0.5)0%,rgba(0,0,0,0.5)50%), url(quote2.jpg);
+  background-position: center;
+  background-size: 1500px;
+  text-align: center;
+  margin: 0 auto;
+  color: white;
+}*/
+
+/*.home-2 h2 {
+	font-size: 35px;
+  padding-top: 500px;
+	text-align: center;
+
+}
+
+
+.quote {
+	display: flex;
+}*/
+
+/*.quote h2 {
+  position: absolute;
+  top: -600%; 
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 0;
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0);
+  z-index: 1; 
+
+}*/
+
+/*.quote p {
+  position: absolute;
+  top: 100%; 
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  font-size: 20px;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+
+
+
+.q1,
+.q2,
+.q3,
+.q4,
+.q5 {
+  position: absolute;
+  top: 35%; 
+  transform: translateY(-50%);
+  text-align: center;
+  width: 18%; 
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  box-sizing: border-box;
+  z-index: 0;
+}
+
+.q1 {
+  left: 4%;
+
+}
+
+.q2 {
+  left: 22%;
+}
+
+.q3 {
+  left: 40%;
+}
+
+.q4 {
+  left: 58%;
+}
+
+.q5 {
+  left: 79%;
+}*/
+
+.home-2 {
+  width: 100%;
+  height: 700px;
+  background: linear-gradient(to top, rgba(0,0,0,0.5)0%,rgba(0,0,0,0.5)50%), url(quote2.jpg);
+  background-position: center;
+  background-size: 1500px;
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+.home-2 h2 {
+  background-color: none;
+
+}
+
+.home-2 p {
+  background-color: none;
+}
+
+.quote {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 100%;
+  background-color: none;
+  color: white;
+}
+
+.q1 {
+  background-color: none;
+  width: 50%;
+  padding: 20px;
+  border: 2px ;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.q2 {
+  background-color: none;
+  width: 50%;
+  padding: 20px;
+  border: 2px ;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.q3 {
+  background-color: none;
+  width: 50%;
+  padding: 20px;
+  border: 2px ;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.q4 {
+  background-color: none;
+  width: 50%;
+  padding: 20px;
+  border: 2px ;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.q5 {
+  background-color: none;
+  width: 50%;
+  padding: 20px;
+  border: 2px ;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+

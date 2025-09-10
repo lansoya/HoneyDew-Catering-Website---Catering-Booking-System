@@ -1,0 +1,368 @@
+.ocassion {
+	position: absolute;
+	overflow: hidden;
+	margin: 0;
+	width: 100%;
+	display: flex;
+    background-color: rgb(237, 237, 233);
+    height: 700px;
+}
+.ocassion-1{
+
+	font-size: 35px;
+	margin: auto 0;
+	text-align: center;
+	color: goldenrod;
+}
+
+.box1{
+	display: flex;
+}
+.occa{
+	box-sizing: border-box;
+	width: 100%;
+	height: 600px;
+	display: flex;
+	margin-bottom: 20px;
+}
+
+
+
+/*if not lagged use below codes*/
+/*////////////////////////////////////////////////////////////////////////////////////////*/
+
+/*.o1 {
+    width: 180px;
+    height: 700px;
+    background-color: ; 
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 1.0) 200%), url(wedding2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    top: 100px;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+
+    font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+	font-size: 25px;
+	color: goldenrod;
+	text-decoration: none;
+}
+
+.o2 {
+    width: 180px;
+    height: 700px;
+    background-color: ; 
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 1.0) 200%), url(reunion.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    top: 100px;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+    font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+	font-size: 25px;
+	color: goldenrod;
+	text-decoration: none;
+}
+
+.o3 {
+    width: 180px;
+    height: 700px;
+    background-color: ; 
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 1.0) 200%), url(birthday.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    top: 100px;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+    font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+	font-size: 25px;
+	color: goldenrod;
+	text-decoration: none;
+}
+
+.o4 {
+    width: 180px;
+    height: 700px;
+    background-color: ; 
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 1.0) 200%), url(cukurbayi.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    top: 100px;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+    font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+	font-size: 25px;
+	color: goldenrod;
+	text-decoration: none;
+}
+
+.o5 {
+    width: 180px;
+    height: 700px;
+    background-color: ; 
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 1.0) 200%), url(anniversaries.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    top: 100px;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+    font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+	font-size: 25px;
+	color: goldenrod;
+	text-decoration: none;
+}
+
+.o6 {
+    width: 180px;
+    height: 700px;
+    background-color: ; 
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 1.0) 200%), url(familygathering1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    top: 100px;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+    font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+	font-size: 25px;
+	color: goldenrod;
+	text-decoration: none;
+}
+
+.o7 {
+    width: 180px;
+    height: 700px;
+    background-color: ; 
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 1.0) 200%), url(engagement.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    top: 100px;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+    font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+	font-size: 25px;
+	color: goldenrod;
+	text-decoration: none;
+}
+
+.o8 {
+    width: 200px;
+    height: 700px;
+    background-color: ; 
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 1.0) 200%), url(holidayparties.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    top: 100px;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+    font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+	font-size: 25px;
+	color: goldenrod;
+	text-decoration: none;
+}*/
+
+
+
+/*/////////////////////////////////////////////////////////////////////////////////////////////*/
+
+/*if lagged use below code*/
+
+/*/////////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+.o1 {
+    width: 180px;
+    height: 700px;
+    background-color: ; 
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 1.0) 200%), url(familygathering1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    top: 100px;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+
+    font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+	font-size: 25px;
+	color: goldenrod;
+	text-decoration: none;
+}
+
+.o2 {
+    width: 180px;
+    height: 700px;
+    background-color: ; 
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 1.0) 200%), url(familygathering1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    top: 100px;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+    font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+	font-size: 25px;
+	color: goldenrod;
+	text-decoration: none;
+}
+
+.o3 {
+    width: 180px;
+    height: 700px;
+    background-color: ; 
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 1.0) 200%), url(familygathering1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    top: 100px;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+    font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+	font-size: 25px;
+	color: goldenrod;
+	text-decoration: none;
+}
+
+.o4 {
+    width: 180px;
+    height: 700px;
+    background-color: ; 
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 1.0) 200%), url(familygathering1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    top: 100px;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+    font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+	font-size: 25px;
+	color: goldenrod;
+	text-decoration: none;
+}
+
+.o5 {
+    width: 180px;
+    height: 700px;
+    background-color: ; 
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 1.0) 200%), url(familygathering1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    top: 100px;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+    font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+	font-size: 25px;
+	color: goldenrod;
+	text-decoration: none;
+}
+
+.o6 {
+    width: 180px;
+    height: 700px;
+    background-color: ; 
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 1.0) 200%), url(familygathering1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    top: 100px;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+    font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+	font-size: 25px;
+	color: goldenrod;
+	text-decoration: none;
+}
+
+.o7 {
+    width: 180px;
+    height: 700px;
+    background-color: ; 
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 1.0) 200%), url(familygathering1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    top: 100px;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+    font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+	font-size: 25px;
+	color: goldenrod;
+	text-decoration: none;
+}
+
+.o8 {
+    width: 200px;
+    height: 700px;
+    background-color: ; 
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 1.0) 200%), url(familygathering1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    top: 120px;
+    margin-bottom: 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    color: goldenrod;
+    text-decoration: none;
+}
+
+
+/*/////////////////////////////////////////////////////////////////////////////////////////////*/
+
+

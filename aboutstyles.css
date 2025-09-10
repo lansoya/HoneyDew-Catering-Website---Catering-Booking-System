@@ -1,0 +1,18 @@
+.about {
+	width: 100%;
+	height: 700px;
+	background-color: #EDEDE9;
+}
+
+.about-1 {
+	padding: 60px;
+}
+
+.about p {
+	font-size: 20px;
+	margin-bottom: 80px;
+}
+
+.about h2 {
+	margin-bottom: 50px;
+}
