@@ -1,0 +1,56 @@
+# Configuration files
+config/config.php
+config/database.php
+.env
+
+# Logs
+logs/
+*.log
+
+# Uploads and temporary files
+uploads/
+temp/
+tmp/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-*
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*.sql.bak
+
+# Cache files
+cache/
+*.cache
+
+# Node modules (if using any frontend build tools)
+node_modules/
+npm-debug.log*
+
+# Composer dependencies
+vendor/
+composer.lock
+
+# Build artifacts
+dist/
+build/
+
+# Session files
+sessions/
+
+# Error logs
+error.log
+error_log
